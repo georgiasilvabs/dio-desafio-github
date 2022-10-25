@@ -1,0 +1,15 @@
+10 comandos do Git
+
+1. Git clone
+2. Git branch
+3. Git checkout
+4. Git status
+5. Git add
+6. Git commit
+7. Git push
+8. Git pull
+9. Git revert
+10. Git merge
+** CTRL+L para limpar o terminal (para windows)
+
+Link do site: https://www.freecodecamp.org/portuguese/news/10-comandos-do-git-que-todo-desenvolvedor-deveria-conhecer/
