@@ -7,3 +7,5 @@ Desenvolvendo um repositório para o desafio de projeto da DIO
 [Plataforma DIO](https://www.dio.me/sign-in)
 
 [Downloads Git](https://git-scm.com/downloads)
+
+[Java Básico](https://glysns.gitbook.io/java-basico/)
